@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "emerald-outpost-390314",
+  "private_key_id": "6f685bc4af31c5afb3ae01cb3849beb770d3f266",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD2/kX9tL7uxooV\nqgw/pZaGWzB2zN0v6rsOu/ATjxoQlRjwCA5pxpJsH6wB/vgQwSjRvGfzZELBqxBL\nlfsGkcvXyH7KvLqZOODa27tuPwuOQLfH2/Zt/RsfBIcp41c3dUBqI10Rkt6Ebv5x\nwtSt8YvZpXDeIZ3SL9Aou9+HpB8+IOt8fV8YocwxiEGgqsjyP4aPchffCVq5wMpr\nnxgtk0L0i7T861S1dXuGvEq9X9zzjqVV9G8adpyD3IvLbdVDSpkbOz/aRt3rHpB+\nFvZQBoq4cwOGp7ONN4lOgkAI1Yi9gul7LHIK+QlzkryuH3XNN2WgMtUaS3gw+jVS\nF7Ui/bY1AgMBAAECggEAZlZAhbgoDCLy/7rvTEe9sHmEARUs6DenvZkdBd2a/Rfp\ntzp/TlBaRrZwvHr6KWb/FLetkmkOR9Qq8kZ4NeaewQ9viWzdG7M3Zzb319wDW7Nw\n8jwvRK9EV3u2zSJG9tF8GP4CB9AEpnaesl/5YwDb4xfrRf5Dt9zbsKT3Hupfj4uf\n429jmTqFSjpVOSYlLgx7zzyCW/4NJQqApvbrJ7EsebsUKUHXFCwlJbnRIIzyeeVL\n0j+/UZcKHks1bHWAlLOxyeb1Jlnq7dooZ9rnwuSzFWoxGJ+nyQDAye4pjUj50sCm\nTIGEkouDC6RgwgOO/0bRvKhUa1eUI5lOjRodqjZrWQKBgQD+HQAuvaagz6vxizzV\nXwoA0ozVjpd/mxeGVhOQB7SqldOCtO5YQaKsKobxgUnCuEbmI6PuU+Pk9yvMkBxb\nHhz45/bl5vZt5ATPhatf4gMFyxxI/9dQUC+tGbgQE3rGi0Dy6RhHOEXNazVzVOmq\n4JqQRQ0MytWtXpRcrENg9QuIYwKBgQD4071OcVyD3RporRIah0utyhdha8MrK2kp\nEcJX6PaiX6qfHIua+EVwQTLGtK9UrOe4CSg7YAiytcOMa2QPC2Z4YaTwEJ/TYQyv\nPwV9ONF6KNpyn4uUk6qQxzFxybMCpY3Yp7BWJvbVxNRpSS4XEsvsuQwEDCV0SINt\n0/ZbCi0uhwKBgQC1Z3yW4XqPeFFWCMEvzT314lj5p2aNiOkdVFt4yZd246hvubwg\nsxJu95kH1PUUFbs/VZgUbjzVWoIg8YvcnD2wjt/ZtaycPFgW0WTK+SyROTMDBeju\ng5/VYfPdPhq6m/SMtExJo2lpQKySnb6F5vtQHIs5Y59wuYEOO0eKcsR94wKBgAun\n75BDIzBSJTCOGvD/MX5cnyfDIotdJznzSQVRNmx4ysdVUPzbcHVHuJcyU5xF1Tz7\nwNS3NPEaLqTfSvqhcBVnjZBpVvNR8oQrEZjCFp4AV+tSqfk1yaGqkxhfeHFBTBnA\nETSX8qwk4kZkVTJjgQX/zR5La129H9r/OOUe3ur1AoGACsifBKlny6WoKV+Gn9IK\n7pZSjQPJnGT9u3TbETmJiOPcspLbCkRUdoxd/FqBVPo7IQfxJ9e4/gWKfBKsQiUV\nRUKx1nb1Jrp700fnHxeGQFTr4VihDGatD1j53ygF1I7w2v3EmHjJ1FXaVwGtHCbB\nl+t7lHfeGgy2XZKgsh5qN0U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spring-boot-pub-sub-util@emerald-outpost-390314.iam.gserviceaccount.com",
+  "client_id": "117889714843159601796",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spring-boot-pub-sub-util%40emerald-outpost-390314.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
